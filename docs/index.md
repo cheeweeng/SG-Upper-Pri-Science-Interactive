@@ -25,4 +25,4 @@ This tool's internal data model uses a structured prompt to pull questions stric
 - **Energy**: Light Energy, Heat Energy, Energy Conversions
 - **Interactions**: Magnets, Forces (Friction, Gravity, Elastic), Environmental impact, Food Chains / Food Webs
 
-For set up and Installation - clone the repository
+For set up and Installation - clone the [repository](https://github.com/cheeweeng/SG-Upper-Pri-Science-Interactive)
